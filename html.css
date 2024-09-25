@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+}
+nav{
+    width: 20%;
+}
+ul{
+    height: 10vh;
+    background-color: gray ;
+    display: flex;
+    gap: 10%;
+    justify-content: center;
+    inline-size: auto;
+    align-items: center;
+}
+li{
+    font-size: 200%;
+    list-style: none;
+    font-style: italic;
+    display: flex;  
+}.oi{
+    gap: 10%;
+    justify-items: center;
+    display: flex;
+    background-color: white;
+}a{
+    color: black;
+}
